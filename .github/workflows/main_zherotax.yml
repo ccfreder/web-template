@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'zherotax'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F52F6DD46AE5423D945BB609480438B0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2CAD9D61B64D4E0B894062218B1043C3 }}
           package: .
